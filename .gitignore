@@ -1,0 +1,20 @@
+# Ignore build output and temp files
+*.o
+*.ko
+*.mod.c
+*.order
+*.symvers
+*.cmd
+*.tmp
+*.log
+modules.order
+Module.symvers
+*.dwo
+*.d
+*.cmd
+*.a
+*.so
+*.swp
+*.tar.gz
+*.zip
+build/
